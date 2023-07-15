@@ -1,4 +1,4 @@
-<img style="width: 100%; height: 100%; border: 10px solid black" src="https://media.tenor.com/gYDr3NtUTt0AAAAC/matrix-code.gif"/>
+<img style="width: 0 auto; height: 100%; border: 10px solid black" src="https://media.tenor.com/gYDr3NtUTt0AAAAC/matrix-code.gif"/>
 
 
 <h1>Yo, hello there!</h1>
