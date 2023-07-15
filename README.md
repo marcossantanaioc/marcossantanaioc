@@ -1,6 +1,3 @@
-<img style="width: 0 auto; height: 100%; border: 10px solid black" src="https://media.tenor.com/gYDr3NtUTt0AAAAC/matrix-code.gif"/>
-
-
 <h1>Yo, hello there!</h1>
  <h2>- 🔭 I’m currently working at BenevolentAI as a Senior Cheminformatics Data Scientist.</h2>
 
